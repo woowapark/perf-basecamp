@@ -10494,7 +10494,7 @@ const Artist = ({ name = '', profileUrl = '', profileImageUrl = '' }) => ({
 
 ;// CONCATENATED MODULE: ./src/constants/artistData.ts
 
-const DUMMY_ARTISTS_LENGTH = 500;
+const DUMMY_ARTISTS_LENGTH = 1000;
 const dummyArtists = [
     {
         name: 'Pola Lucas',
@@ -10502,9 +10502,9 @@ const dummyArtists = [
         profileImageUrl: 'https://media4.giphy.com/media/gwWAA4PYJLTtyOHkUD/giphy.gif'
     },
     {
-        name: 'Yizr',
-        profileUrl: 'https://giphy.com/yizr',
-        profileImageUrl: 'https://media.giphy.com/avatars/yizr/llqaOJQnpDWZ/200h.gif'
+        name: 'Jake',
+        profileUrl: 'https://giphy.com/jakecloud',
+        profileImageUrl: 'https://media.giphy.com/avatars/jakecloud/vkGqrY1swp7V/200h.gif'
     },
     {
         name: 'YUNGSUNG',
